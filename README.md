@@ -1,2 +1,51 @@
-# Coursera-Machine-Learning
-Assignments and projects for Coursera's Machine Learning course.
+<p align="center">
+  <img src='https://github.com/chivingtoninc/Coursera-Machine-Learning/blob/master/imgs/ml.png' alt='ML logo' />
+</p>
+
+
+# [Coursera-Machine-Learning](https://www.coursera.org/learn/machine-learning)
+Assignments and projects for [Stanford's](https://www.stanford.edu) on [Coursera](https://www.coursera.org/).
+
+![Build Status](https://img.shields.io/badge/build-Stable-green.svg)
+![License](https://img.shields.io/badge/license-DO_WHATEVER_YOU_WANT-green.svg)
+
+Machine learning is the science of getting computers to act without being explicitly programmed. In the past decade, machine learning has given us self-driving cars, practical speech recognition, effective web search, and a vastly improved understanding of the human genome. Machine learning is so pervasive today that you probably use it dozens of times a day without knowing it. Many researchers also think it is the best way to make progress towards human-level AI. In this class, you will learn about the most effective machine learning techniques, and gain practice implementing them and getting them to work for yourself. More importantly, you'll learn about not only the theoretical underpinnings of learning, but also gain the practical know-how needed to quickly and powerfully apply these techniques to new problems. Finally, you'll learn about some of Silicon Valley's best practices in innovation as it pertains to machine learning and AI.
+
+This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition. Topics include: (i) Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks). (ii) Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning). (iii) Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI). The course will also draw from numerous case studies and applications, so that you'll also learn how to apply learning algorithms to building smart robots (perception, control), text understanding (web search, anti-spam), computer vision, medical informatics, audio, database mining, and other areas.
+<br/><br/><br/>
+
+## Contents
+* [Installation](https://github.com/chivingtoninc/Coursera-Machine-Learning#installation)
+* [Usage](https://github.com/chivingtoninc/Coursera-Machine-Learning#usage)
+* [Authors](https://github.com/chivingtoninc/Coursera-Machine-Learning#authors)
+* [Contributing](https://github.com/chivingtoninc/Coursera-Machine-Learning#contributing)
+* [Acknowledgments](https://github.com/chivingtoninc/Coursera-Machine-Learning#acknowledgments)
+* [License](https://github.com/chivingtoninc/Coursera-Machine-Learning#license)
+<br/>
+
+
+## Installation
+```
+  cd /path/to/where/you/want/it
+  git clone https://github.com/chivingtoninc/Coursera-Machine-Learning.git
+```
+
+## Usage
+This repo should be used as a reference while taking the Machine Learning course on Couresera. Familiarity with general Matlab/Octave is assumed.
+
+Feel free to ask me questions on [GitHub](https://github.com/chivingtoninc), [Twitter](https://twitter.com/chivingtoninc), [Facebook](https://facebook.com/chivingtoninc) or [LinkedIn](https://www.linkedin.com/in/johnathan-chivington/)
+<br/><br/>
+
+
+## Authors
+* **Johnathan Chivington:** [GitHub](https://github.com/chivingtoninc) | [Twitter](https://twitter.com/chivingtoninc) | [Facebook](https://facebook.com/chivingtoninc) | [LinkedIn](https://www.linkedin.com/in/johnathan-chivington/)
+
+## Contributing
+Not currently accepting outside contributors, but feel free to clone, fork, modify and use as you wish.
+
+## Acknowledgments
+   * Thank you to [Andrew Ng](https://www.andrewng.org) and all others who assisted in providing this quality, *FREE* educational content!
+
+## License
+This project is licensed under the DO_WHATEVER_YOU_WANT License - see the [LICENSE](https://github.com/chivingtoninc/Coursera-Machine-Learning/blob/master/LICENSE) file for details
+<br/><br/>
