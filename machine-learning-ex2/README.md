@@ -5,12 +5,6 @@
 ## Overview
 In this exercise, you will implement logistic regression and apply it to two different datasets. Before starting on the programming exercise, we strongly recommend watching the video lectures and completing the review questions for the associated topics.
 
-## Learning Objectives
-* Learn how to plot data from your datasets.
-* Implement a sigmoid function.
-* Implement a cost function.
-* Implement regularization.
-
 *Note: Additional optional assignments included. See [pdf](https://github.com/chivingtoninc/Coursera-Machine-Learning/blob/master/machine-learning-ex2/ex2.pdf)*
 <br/><br/>
 

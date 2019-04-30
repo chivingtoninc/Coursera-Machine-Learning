@@ -5,11 +5,6 @@
 ## Overview
 In this exercise, you will implement linear regression and get to see it work on data. Before starting on this programming exercise, we strongly recommend watching the video lectures and completing the review questions for the associated topics.
 
-## Learning Objectives
-* Gain a basic familiarity with Octave/MATLAB.
-* Implement Linear Regression with one variable.
-* Implement Gradient Descent.
-
 *Note: Additional optional assignments included. See [pdf](https://github.com/chivingtoninc/Coursera-Machine-Learning/blob/master/machine-learning-ex1/ex1.pdf)*
 <br/><br/>
 
